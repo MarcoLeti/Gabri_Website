@@ -1,0 +1,12 @@
+name: "Gabri Website"
+navbar:
+  title: "Gabriele Bottani"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
+output:
+  html_document:
+        theme: default

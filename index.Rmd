@@ -1,0 +1,7 @@
+---
+title: "Gabriele Website"
+---
+
+<a href="./slides/index.html">Full page slides view</a>
+
+<iframe src="./slides/index.html" width="650" height="550" id="one"></iframe>
