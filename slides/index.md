@@ -1,5 +1,5 @@
 ---
-title       : 
+title       : Gabriele Bottani
 subtitle    : 
 author      : 
 job         : 
@@ -9,6 +9,17 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+---
+
+Since I was young, I have always liked play with the color and fascinated by painting.
+Once during an art lesson at school I thought, how someone could make something so impressive with paint and then I realized that behind a picture there are a lot of time, patience, effort and energy.
+
+Behind every my painting, I would like to transmit passion, creativity, positivity, suffering, energy, motivation and spread all thrills hidden inside me.
+
+When I am in front of a new painting, I feel an intense and unexplainable emotion that only the constant discipline allows me to improve my creativity and technique finding inspiration in the world around us.
+
+Through my paintings, I would like to communicate an universal language that everyone can understand trying to arouse sensations, perceptions and emotions.
+
 ---
 
 <a href="./pictures/DSC_7754.JPG">
@@ -110,3 +121,5 @@ knit        : slidify::knit2slides
 <a href="./pictures/DSC_7801.JPG">
 <img src="./pictures/DSC_7801.JPG" height="47%" width="47%">
 </a>
+
+---
