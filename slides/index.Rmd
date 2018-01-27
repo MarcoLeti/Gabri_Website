@@ -123,3 +123,127 @@ Through my paintings, I would like to communicate an universal language that eve
 </a>
 
 ---
+
+<a href="./pictures/IMG-20180125-WA0005.jpg">
+<img src="./pictures/IMG-20180125-WA0005.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0006.jpg">
+<img src="./pictures/IMG-20180125-WA0006.jpg" height="40%" width="40%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0007.jpg">
+<img src="./pictures/IMG-20180125-WA0007.jpg" height="40%" width="40%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0008.jpg">
+<img src="./pictures/IMG-20180125-WA0008.jpg" height="40%" width="40%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0009.jpg">
+<img src="./pictures/IMG-20180125-WA0009.jpg" height="40%" width="40%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0010.jpg">
+<img src="./pictures/IMG-20180125-WA0010.jpg" height="40%" width="40%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0011.jpg">
+<img src="./pictures/IMG-20180125-WA0011.jpg" height="40%" width="40%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0012.jpg">
+<img src="./pictures/IMG-20180125-WA0012.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0013.jpg">
+<img src="./pictures/IMG-20180125-WA0013.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0014.jpg">
+<img src="./pictures/IMG-20180125-WA0014.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0015.jpg">
+<img src="./pictures/IMG-20180125-WA0015.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0016.jpg">
+<img src="./pictures/IMG-20180125-WA0016.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0017.jpg">
+<img src="./pictures/IMG-20180125-WA0017.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0018.jpg">
+<img src="./pictures/IMG-20180125-WA0018.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0019.jpg">
+<img src="./pictures/IMG-20180125-WA0019.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0020.jpg">
+<img src="./pictures/IMG-20180125-WA0020.jpg" height="47%" width="47%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0021.jpg">
+<img src="./pictures/IMG-20180125-WA0021.jpg" height="47%" width="47%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0022.jpg">
+<img src="./pictures/IMG-20180125-WA0022.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0023.jpg">
+<img src="./pictures/IMG-20180125-WA0023.jpg" height="68%" width="68%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0024.jpg">
+<img src="./pictures/IMG-20180125-WA0024.jpg" height="40%" width="40%">
+</a>
+
+------
+
+<a href="./pictures/IMG-20180125-WA0025.jpg">
+<img src="./pictures/IMG-20180125-WA0025.jpg" height="68%" width="68%">
+</a>
